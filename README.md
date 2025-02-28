@@ -60,3 +60,5 @@ mvn spring-boot:run
 4. Запушьте изменения (`git push origin feature-branch`)
 5. Откройте Pull Request
 
+## GoogleDoc
+https://docs.google.com/document/d/1BT9k7-wNWz9m-jd7rH9BkCqTRGnQiY675RgcYCimlV0/edit?tab=t.0
